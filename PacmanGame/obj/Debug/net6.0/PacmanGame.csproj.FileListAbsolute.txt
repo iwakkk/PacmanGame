@@ -1,0 +1,15 @@
+C:\Users\edwar\source\repos\PacmanGame\bin\Debug\net6.0\PacmanGame.exe
+C:\Users\edwar\source\repos\PacmanGame\bin\Debug\net6.0\PacmanGame.deps.json
+C:\Users\edwar\source\repos\PacmanGame\bin\Debug\net6.0\PacmanGame.runtimeconfig.json
+C:\Users\edwar\source\repos\PacmanGame\bin\Debug\net6.0\PacmanGame.dll
+C:\Users\edwar\source\repos\PacmanGame\bin\Debug\net6.0\PacmanGame.pdb
+C:\Users\edwar\source\repos\PacmanGame\obj\Debug\net6.0\PacmanGame.csproj.AssemblyReference.cache
+C:\Users\edwar\source\repos\PacmanGame\obj\Debug\net6.0\PacmanGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edwar\source\repos\PacmanGame\obj\Debug\net6.0\PacmanGame.AssemblyInfoInputs.cache
+C:\Users\edwar\source\repos\PacmanGame\obj\Debug\net6.0\PacmanGame.AssemblyInfo.cs
+C:\Users\edwar\source\repos\PacmanGame\obj\Debug\net6.0\PacmanGame.csproj.CoreCompileInputs.cache
+C:\Users\edwar\source\repos\PacmanGame\obj\Debug\net6.0\PacmanGame.dll
+C:\Users\edwar\source\repos\PacmanGame\obj\Debug\net6.0\refint\PacmanGame.dll
+C:\Users\edwar\source\repos\PacmanGame\obj\Debug\net6.0\PacmanGame.pdb
+C:\Users\edwar\source\repos\PacmanGame\obj\Debug\net6.0\PacmanGame.genruntimeconfig.cache
+C:\Users\edwar\source\repos\PacmanGame\obj\Debug\net6.0\ref\PacmanGame.dll
